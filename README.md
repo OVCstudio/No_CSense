@@ -1,5 +1,4 @@
 # No_CSense
-再见了，CSense
 To the GitHub Support Team:  
 
 ### Background  
